@@ -2,15 +2,15 @@
 <rss version="2.0">
     <channel>
         <title>Centro de Información sobre GTA VI</title>
-        <link>https://tu-usuario.github.io/tu-repositorio/</link>
+        <link>https://victormorillasholanda-star.github.io/GTA-VI-web/</link>
         <description>Novedades, personajes, mapas y toda la información sobre el esperado lanzamiento de GTA VI en Vice City.</description>
         <language>es</language>
 
         <!-- Primer contenido destacado (Blog / Historia) -->
         <item>
             <title>Todo lo que sabemos hasta ahora del nuevo videojuego de Rockstar</title>
-            <link>https://tu-usuario.github.io/tu-repositorio/blog.html</link>
-            <guid>https://tu-usuario.github.io/tu-repositorio/blog.html</guid>
+            <link>https://victormorillasholanda-star.github.io/GTA-VI-web/blog.html</link>
+<guid>https://victormorillasholanda-star.github.io/GTA-VI-web/blog.html</guid>
             <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
             <description>Análisis detallado sobre la ambientación en Leonida, los gráficos y el primer adelanto oficial de GTA VI.</description>
         </item>
@@ -18,8 +18,8 @@
         <!-- Segundo contenido destacado (Tabla / Personajes) -->
         <item>
             <title>Plantilla de Personajes y Protagonistas de Vice City</title>
-            <link>https://tu-usuario.github.io/tu-repositorio/tabla.html</link>
-            <guid>https://tu-usuario.github.io/tu-repositorio/tabla.html</guid>
+            <link>https://victormorillasholanda-star.github.io/GTA-VI-web/tabla.html</link>
+<guid>https://victormorillasholanda-star.github.io/GTA-VI-web/tabla.html</guid>
             <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
             <description>Consulta la tabla detallada con los roles, ubicaciones y habilidades de Lucia, Jason y la banda.</description>
         </item>
@@ -27,8 +27,8 @@
         <!-- Tercer contenido destacado (Galería / Multimedia) -->
         <item>
             <title>Mapa de Vice City, Tráiler Oficial y Banda Sonora</title>
-            <link>https://tu-usuario.github.io/tu-repositorio/galeria.html</link>
-            <guid>https://tu-usuario.github.io/tu-repositorio/galeria.html</guid>
+            <link>https://victormorillasholanda-star.github.io/GTA-VI-web/galeria.html</link>
+<guid>https://victormorillasholanda-star.github.io/GTA-VI-web/galeria.html</guid>
             <pubDate>Wed, 04 Nov 2026 16:30:00 +0100</pubDate>
             <description>Explora el mapa interactivo de Miami, escucha la música oficial y mira el tráiler del juego.</description>
         </item>
