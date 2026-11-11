@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTA VI SOLICITUD</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+
+<body>
+    <!-- CABECERA -->
+    <header>
+        <img src="img/images (16).jpg" alt="logo GTA VI" width="200">
+        <h1>Subscripción a nuestra banda</h1>
+    </header>
+    <!--MENU DE PÁGINAS-->
+    <nav>
+           <ul>
+            <li>
+                <a href="index.html">Inicio</a>
+            </li>
+
+            <li>
+                <a href="blog.html">Historia</a>
+            </li>
+
+            <li>
+                <a href="tabla.html">Personajes</a>
+
+            </li>
+
+            <li>
+                <a href="galeria.html">Mapa y Multimedia</a>
+            </li>
+
+
+            <li>
+                <a href="formulario.html">Solicitud</a>
+            </li>
+
+        </ul>
+    </nav>
+    <main>
+        <h2>Rellena esta solicitud</h2>
+        <p>Introduce tus datos para mantenerte informado sobre cada una de las diferentes novedades y noticias
+            exclusivas en tiempo record, rellena nuestra solicitud</p>
+        <form action="#" method="get">
+            <fieldset>
+                <legend>Datos Personales y Preferencias</legend>
+
+                <label for="nombre">Nombre completo:</label>
+                <br>
+                <input type="text" id="nombre" name="nombre" required placeholder="Tu nombre y apellidos">
+                <br>
+                <br>
+
+                <label for="email">Correo electrónico:</label>
+                <br>
+                <input type="email" id="email" name="email" required placeholder="ejemplo@correo.com">
+                <br>
+                <br>
+
+                <label for="jugador">Protagonista favorito de la plantilla:</label>
+                <br>
+                <select id="jugador" name="jugador">
+                    <option value="lucia">Lucia Caminos</option>
+                    <option value="jason">Jason W.</option>
+                    <option value="ambos">Ambos por igual</option>
+                </select>
+                <br>
+                <br>
+
+                <label>¿Eres miembro del Club Social de Rockstar?</label>
+                <br>
+                <input type="radio" id="socio_si" name="socio" value="si">
+                <label for="socio_si">Sí</label>
+                <br>
+                <input type="radio" id="socio_no" name="socio" value="no" checked>
+                <label for="socio_no">No</label>
+                <br>
+                <br>
+
+                <label for="comentarios">¿Qué sección te gusta más de nuestra web?</label>
+                <br>
+                <textarea id="comentarios" name="comentarios" rows="4" cols="50"
+                    placeholder="Escribe aquí tus comentarios..."></textarea>
+                <br>
+                <br>
+                <input type="checkbox" id="terminos" name="terminos" required>
+                <label for="terminos">Acepto los términos y condiciones de privacidad.</label>
+                <br>
+                <br>
+
+                <input type="submit" value="Suscribirse">
+                <input type="reset" value="Borrar datos">
+            </fieldset>
+
+        </form>
+    </main>
+    <footer>
+        <address>
+            Sitio web creado por Víctor Morillas Martínez
+            <br>
+            Curso 1 DAM - Módulo Lenguage de Marcas
+            <br>
+            Año 2026
+        </address>
+    </footer>
+</body>
+
+</html>
