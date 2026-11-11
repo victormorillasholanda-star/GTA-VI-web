@@ -43,10 +43,10 @@ Sitio web de cinco páginas diseñado para ofrecer información detallada, notic
 ![Resultado de validación HTML](img/validacion-html.png)
 
 ### CSS
-![Resultado de validación CSS](img/validacion-css.png)
+![Resultado de validación CSS](img/validacion--css.png)
 
 ### RSS
-![Resultado de validación RSS](img/validacion-rss.png)
+![Resultado de validación RSS](img/validacion--rss.png)
 
 ## Dificultades encontradas
 Describe al menos tres dificultades reales:
