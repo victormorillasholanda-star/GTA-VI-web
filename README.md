@@ -1,6 +1,6 @@
 # Centro de Información sobre GTA VI
 
-Sitio web educativo de cinco páginas dedicado a ofrecer información detallada, noticias, personajes, recursos multimedia y un formulario de participación sobre el esperado lanzamiento de Grand Theft Auto VI en Vice City y el estado de Leonida.
+Sitio web de cinco páginas diseñado para ofrecer información detallada, noticias, personajes, recursos multimedia y un formulario de participación sobre el videojuego Grand Theft Auto VI en Vice City y el estado de Leonida. La temática de este esta inspirada en todo lo que se sabe hasta el momento sobre el juego y detalles de la vida real incluidas en el juego (como la banda sonora o el mapa en sí que esta inspirado en miami).
 
 ## Autoría
 - **Nombre y apellidos:** Víctor Morillas Martínez
@@ -13,12 +13,12 @@ Sitio web educativo de cinco páginas dedicado a ofrecer información detallada,
 - **Repositorio:** [Abrir repositorio](https://github.com/victormorillasholanda-star/GTA-VI-web)
 
 ## Estructura del proyecto
-- `index.html`: Página principal con el logotipo, descripción del tema y resúmenes destacados.
-- `blog.html`: Artículo detallado sobre el desarrollo y las novedades de Rockstar Games.
-- `tabla.html`: Tabla estructurada de personajes y roles con accesibilidad y celdas combinadas.
-- `galeria.html`: Galería multimedia que incluye mapa oficial, audio local, vídeo local con subtítulos, YouTube y Google Maps.
+- `index.html`: Página principal con el logotipo, descripción de lo que es en sí el GTA VI y resúmenes sobre cada apartado web junto a los enlaces a estos.
+- `blog.html`: Artículo detallado sobre el desarrollo, historia y las novedades de  la empresa desarrolladora Rockstar Games.
+- `tabla.html`: Tabla estructurada de personajes y roles con celdas combinadas y tematizadas sobre el juego.
+- `galeria.html`: Galería multimedia que incluye mapa oficial, tema principal de la banda sonora, vídeo del trailer y Google Maps.
 - `formulario.html`: Formulario completo de suscripción con validación HTML5 y múltiples tipos de control.
-- `rss.xml`: Canal de sindicación de contenidos en formato XML.
+- `rss.xml`: Canal de indicación de contenidos en formato XML.
 - `css/estilos.css`: Hoja de estilos externa compartida.
 
 ## Tecnologías utilizadas
