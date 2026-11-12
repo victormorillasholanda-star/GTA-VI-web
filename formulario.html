@@ -16,7 +16,7 @@
     </header>
     <!--MENU DE PÁGINAS-->
     <nav>
-           <ul>
+        <ul>
             <li>
                 <a href="index.html">Inicio</a>
             </li>
@@ -60,7 +60,38 @@
                 <input type="email" id="email" name="email" required placeholder="ejemplo@correo.com">
                 <br>
                 <br>
-
+                <div>
+                    <label for="pass">Contraseña <span class="obligatorio">*</span>:</label>
+                    <input type="password" id="pass" name="pass" required minlength="6"
+                        placeholder="Mínimo 6 caracteres">
+                </div>
+<br>
+                <br>
+                <div>
+                    <label for="fnacimiento">Fecha de nacimiento <span class="obligatorio">*</span>:</label>
+                    <input type="date" id="fnacimiento" name="fnacimiento" required min="1900-01-01" max="2008-12-31">
+                </div>
+                <br>
+                <br>
+                <div>
+                    <label for="edad">Edad <span class="obligatorio">*</span>:</label>
+                    <input type="number" id="edad" name="edad" required min="18" max="99" value="18">
+                </div>
+                <br>
+                <br>
+                <div>
+                    <label for="avatar">Sube tu avatar o captura <span class="obligatorio">*</span>:</label>
+                    <input type="file" id="avatar" name="avatar" accept="image/*" required>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Preferencias en Leonida</legend>
+                <div>
+                    <label for="hype">Nivel de Hype (1 al 10):</label>
+                    <input type="range" id="hype" name="hype" min="1" max="10" step="1" value="8">
+                </div>
+                <br>
+                <br>
                 <label for="jugador">Protagonista favorito de la plantilla:</label>
                 <br>
                 <select id="jugador" name="jugador">
@@ -89,9 +120,10 @@
                 <br>
                 <input type="checkbox" id="terminos" name="terminos" required>
                 <label for="terminos">Acepto los términos y condiciones de privacidad.</label>
-                <br>
-                <br>
+            </fieldset>
 
+            <fieldset>
+                <legend>Confirmación de datos</legend>
                 <input type="submit" value="Suscribirse">
                 <input type="reset" value="Borrar datos">
             </fieldset>
